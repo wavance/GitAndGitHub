@@ -1,0 +1,19 @@
+---
+title: "First Quarto Doc for sd4eeb"
+author: "Walt Vance"
+date: 2026-01-07
+format: gfm
+editor: visual
+---
+
+# Header Big
+
+## Headers little bro
+
+*italics*
+
+**bold**
+
+```{r}
+10+20
+```
